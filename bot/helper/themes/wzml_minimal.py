@@ -9,8 +9,8 @@ class WZMLStyle:
     ST_MSG = '''<i>הבוט הזה יכול לשכפל את כל הקישורים|קבצים|טורנטים שלך ל-Google Drive או לכל שירות אחסון בענן באמצעות rclone או ל-Telegram או לשרתים של DDL.</i>
 
 <b>שלח {help_command} כדי לראות את הרשימת פקודות</b>'''
-    ST_BOTPM = '''<i>Now, This bot will send all your files and links here. Start Using ...</i>'''
-    ST_UNAUTH = '''<i>You Are not authorized user! Deploy your own WZML-X Mirror-Leech bot</i>'''
+    ST_BOTPM = '''<i>כעת, הבוט הזה ישלח את כל הקבצים והקישורים שלך לכאן.  התחל להשתמש...</i>'''
+    ST_UNAUTH = '''<i>אתה לא מורשה להשתמש בבוט הזה</i>'''
     OWN_TOKEN_GENERATE = '''<b>Temporary Token is not yours!</b>\n\n<i>Kindly generate your own.</i>'''
     USED_TOKEN = '''<b>Temporary Token already used!</b>\n\n<i>Kindly generate a new one.</i>'''
     LOGGED_PASSWORD = '''<b>Bot Already Logged In via Password</b>\n\n<i>No Need to Accept Temp Tokens.</i>'''
