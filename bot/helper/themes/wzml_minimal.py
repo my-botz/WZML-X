@@ -4,8 +4,8 @@ class WZMLStyle:
     # async def start(client, message) ---> __main__.py
     ST_BN1_NAME = 'למעבר לקבוצה'
     ST_BN1_URL = 'https://t.me/+oVKj6OBTxBAwYjM0'
-    ST_BN2_NAME = 'Updates'
-    ST_BN2_URL = 'https://t.me/VJ_Botz'
+    ST_BN2_NAME = ''
+    ST_BN2_URL = ''
     ST_MSG = '''<i>הבוט הזה יכול לשכפל את כל הקישורים|קבצים|טורנטים שלך ל-Google Drive או לכל שירות אחסון בענן באמצעות rclone או ל-Telegram או לשרתים של DDL.</i>
 
 <b>שלח {help_command} כדי לראות את הרשימת פקודות</b>'''
